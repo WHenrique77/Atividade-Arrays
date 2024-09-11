@@ -6,7 +6,7 @@ entrada: GerarArrays (11,7,3)
 Saida: Um array Aleatorio [3, 5, 7, 4, 6, 3, 7, 4, 5, 6, 7]
 
 Descrição 2° questão
-Encontrar elemento mais frequente, ela encontra no arrays o elemento que mais se repete.
+Encontrar elemento mais frequente, o elemento que mais se repete.
 entrada:elementoMaisFrequente([1, 1, 0, 3, 0, 7, 3])
 Saida: 1 que e o elemento que mais se repete.
 
